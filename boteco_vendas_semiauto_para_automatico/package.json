@@ -1,0 +1,17 @@
+{
+  "name": "bot-teste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "wio.db": "^4.0.22",
+    "axios": "^0.27.2",
+    "mercadopago": "^1.5.13"
+  }
+}
